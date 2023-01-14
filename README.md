@@ -6,3 +6,5 @@
 
 <span>Project By: </span><span>Shreyash Nalawade</span>
 <a href="https://www.linkedin.com/in/shreyash-nalawade/"><img style="height:20px;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+
+  <img src="https://goldenvisasconsultancy.com/wp-content/uploads/2019/08/Real-estate-fundamentals-1-1200x600.jpg">
